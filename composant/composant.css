@@ -1,0 +1,150 @@
+body{
+    background-color: rgb(249, 240, 251);
+}
+
+.salutation{
+    text-align: center;
+    font-style: italic;
+    text-shadow: 3px 3px 3px grey;
+    color: brown;
+}
+
+.card-purple{
+    margin-bottom: 8px;
+    padding: 20px;
+    border: 2px solid rgb(10, 10, 9); 
+    border-radius: 10px;
+    background-color:rgb(130, 87, 145);
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.bloc1{
+    width: 30%;
+    height: auto;
+    color: black;
+}
+.bloc1:hover{
+    color: white;
+  
+}
+
+.bloc2{
+    width: 30%;
+    height: auto;
+    color: black;
+}
+.bloc2:hover{
+    color: white;
+  
+}
+
+.bloc3{
+    width: 30%;
+    height: auto;
+    color: black;
+}
+.bloc3:hover{
+    color: white;
+  
+}
+
+.bloc4{
+    width: 30%;
+    height: auto;
+}
+.bloc4:hover{
+    color: white;
+  
+}
+a:visited{
+    color: black;
+}
+a:focus{
+    background-color: rgb(169, 163, 163);
+}
+
+.me{
+    width: 30%;
+    height: 40%;
+    margin-left:200px;
+    margin-top: 5%;
+    transform: translate(200px) rotateY(200deg);
+    transition: all 1.5s ease;
+}
+
+#btn{
+    margin-left: 550px ;
+}
+
+#btn2{
+    margin-left: 570px ;
+}
+
+.appart{
+    width: 80%;
+    margin-left:auto;
+    margin-right: auto;
+    margin-top: 5%;
+}
+.appart1{
+    width: 30%;
+    height: 40%;
+    margin-left:190px;
+    
+    
+}
+
+.appart2{
+    width: 30%;
+    height: 40%;
+    margin-left:190px;
+    margin-top: 5%;
+    
+}
+
+.appart3{
+    width: 30%;
+    height: 40%;
+    margin-left:190px;
+    margin-top: 5%;
+    
+}
+
+.presentation{
+    font-family: Arial, Helvetica, sans-serif ;
+}
+
+.titre{
+    font-size: 2em;  
+    margin-top: 1%;
+    text-align: left;
+    font-style: italic;
+    text-shadow: 3px 3px 3px grey;
+
+}
+
+.titre2{   
+    margin-top: 20px; 
+    font-size: 1em;
+    text-align: center;
+}
+
+.span{
+    color:rgb(130, 87, 145);
+    text-shadow: 2px 2px 2px rgb(171, 170, 170);
+}
+.insta{
+    width: 80%;
+    margin-left:50px;
+    margin-right: 50px;
+    margin-top: 5%;
+}
+
+.cv{
+    width: 10%;
+   height: min-content;
+    margin-top: 5%;
+}
